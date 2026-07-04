@@ -1,0 +1,18 @@
+Common Deployment Tools
+-----------------------
+
+| Tool       | Purpose                           |
+| ---------- | --------------------------------- |
+| Git        | Track code changes                |
+| GitHub     | Store and share source code       |
+| Docker     | Package applications consistently |
+| Kubernetes | Manage containers at scale        |
+| Nginx      | Serve web traffic efficiently     |
+| Flask      | Build APIs and web apps           |
+| FastAPI    | High-performance APIs             |
+| Streamlit  | Data science and ML apps          |
+| Gradio     | AI demos and interfaces           |
+
+
+============
+
