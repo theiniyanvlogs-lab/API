@@ -1,0 +1,104 @@
+Below is a list of 50+ popular open-source deployment tools and platforms used worldwide for deploying applications, AI/ML models, containers, Kubernetes clusters, CI/CD pipelines, serverless functions, monitoring, and infrastructure automation.
+
+Note: These are open-source software projects. The "Country" refers to where the project or its founding organization originally started. Many are now maintained by global communities.
+
+| No. | Tool                                | Category                   | Country of Origin |
+| --- | ----------------------------------- | -------------------------- | ----------------- |
+| 1   | Docker                              | Containerization           | United States     |
+| 2   | Kubernetes                          | Container Orchestration    | United States     |
+| 3   | Helm                                | Kubernetes Package Manager | United States     |
+| 4   | Argo CD                             | GitOps                     | United States     |
+| 5   | Argo Workflows                      | Workflow Automation        | United States     |
+| 6   | Flux CD                             | GitOps                     | United States     |
+| 7   | Jenkins                             | CI/CD                      | United States     |
+| 8   | GitLab CE                           | DevOps Platform            | Netherlands       |
+| 9   | Drone CI                            | CI/CD                      | United States     |
+| 10  | Tekton                              | CI/CD                      | United States     |
+| 11  | Spinnaker                           | Continuous Delivery        | United States     |
+| 12  | GoCD                                | CD Pipeline                | India             |
+| 13  | Buildkite Agent                     | Build Agent                | Australia         |
+| 14  | Ansible                             | Configuration Management   | United States     |
+| 15  | Terraform                           | Infrastructure Automation  | United States     |
+| 16  | OpenTofu                            | Infrastructure Automation  | Global Community  |
+| 17  | Puppet                              | Configuration Management   | United States     |
+| 18  | Chef Infra                          | Configuration Management   | United States     |
+| 19  | Salt                                | Automation                 | United States     |
+| 20  | Nomad                               | Scheduler                  | United States     |
+| 21  | Consul                              | Service Discovery          | United States     |
+| 22  | Istio                               | Service Mesh               | United States     |
+| 23  | Linkerd                             | Service Mesh               | United States     |
+| 24  | Traefik                             | Load Balancer              | France            |
+| 25  | Nginx                               | Web Server                 | Russia            |
+| 26  | Apache HTTP Server                  | Web Server                 | United States     |
+| 27  | Caddy                               | Web Server                 | Canada            |
+| 28  | HAProxy                             | Load Balancer              | France            |
+| 29  | Envoy                               | Proxy                      | United States     |
+| 30  | K3s                                 | Lightweight Kubernetes     | United States     |
+| 31  | MicroK8s                            | Kubernetes                 | United Kingdom    |
+| 32  | Minikube                            | Local Deployment           | United States     |
+| 33  | Kind                                | Local Kubernetes           | United States     |
+| 34  | Rancher                             | Kubernetes Management      | United States     |
+| 35  | OpenShift OKD                       | Kubernetes Platform        | United States     |
+| 36  | Portainer                           | Container Management       | New Zealand       |
+| 37  | CapRover                            | App Deployment             | Canada            |
+| 38  | Dokku                               | PaaS                       | United States     |
+| 39  | Coolify                             | Self-hosted PaaS           | Hungary           |
+| 40  | OpenFaaS                            | Serverless                 | United Kingdom    |
+| 41  | Knative                             | Serverless                 | United States     |
+| 42  | Kubeless                            | Serverless                 | Spain             |
+| 43  | Apache Mesos                        | Cluster Management         | United States     |
+| 44  | Marathon                            | Orchestration              | United States     |
+| 45  | Harbor                              | Image Registry             | China             |
+| 46  | Sonatype Nexus Repository OSS       | Artifact Repository        | United States     |
+| 47  | JFrog Artifactory Community Edition | Artifact Repository        | Israel            |
+| 48  | Prometheus                          | Monitoring                 | Germany           |
+| 49  | Grafana                             | Monitoring Dashboard       | Sweden            |
+| 50  | Loki                                | Log Management             | Sweden            |
+| 51  | Jaeger                              | Tracing                    | United States     |
+| 52  | OpenTelemetry                       | Telemetry                  | Global Community  |
+| 53  | Velero                              | Backup & Restore           | United States     |
+| 54  | Kustomize                           | Configuration              | United States     |
+| 55  | Crossplane                          | Multi-cloud Deployment     | United States     |
+
+
+==============
+
+Most Popular Open-Source Deployment Tools for AI/ML Engineers
+
+| Tool                 | Main Use                        | Difficulty |
+| -------------------- | ------------------------------- | ---------- |
+| Docker               | Package AI applications         | ⭐⭐         |
+| Kubernetes           | Deploy AI at scale              | ⭐⭐⭐⭐⭐      |
+| Jenkins              | Automate deployment             | ⭐⭐⭐        |
+| Helm                 | Deploy Kubernetes apps          | ⭐⭐⭐        |
+| Argo CD              | GitOps deployments              | ⭐⭐⭐⭐       |
+| Nginx                | Web server & reverse proxy      | ⭐⭐⭐        |
+| Ansible              | Server automation               | ⭐⭐⭐        |
+| Terraform / OpenTofu | Provision cloud infrastructure  | ⭐⭐⭐⭐       |
+| Portainer            | Manage Docker visually          | ⭐⭐         |
+| Coolify              | Self-hosted deployment platform | ⭐⭐         |
+
+
+=========
+
+Recommended Learning Roadmap
+
+If your goal is to become an AI Engineer, MLOps Engineer, or DevOps Engineer, a practical sequence is:
+
+Git & GitHub
+Docker
+Nginx
+Jenkins
+Ansible
+Terraform or OpenTofu
+Kubernetes
+Helm
+Argo CD
+Prometheus + Grafana
+OpenFaaS or Knative (Serverless)
+Full MLOps workflows with Kubernetes
+
+This progression takes you from deploying a single application on one machine to operating large-scale,
+production-grade AI systems used by organizations around the world.
+
+==========
